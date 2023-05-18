@@ -8,9 +8,8 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-link active" aria-current="page"> <router-link to="/" class="nav-home">Home</router-link></a>
-          <a class="nav-link"> <router-link to="About" class="nav-surah">Surah</router-link></a>
-          <a class="nav-link"> <router-link to="Surah" class="nav-ayat">Ayat</router-link></a>
+          <a class="nav-link active" aria-current="page"> <router-link to="/" class="nav-home">Al-Qur'an Indonesia</router-link></a>
+          <a class="nav-link"> <router-link to="About" class="nav-surah">Baca Qur'an</router-link></a>
         </div>
       </div>
     </div>
@@ -35,9 +34,6 @@
   -webkit-text-fill-color: #74a662;
 }
 
-.nav-ayat {
-  -webkit-text-fill-color: #74a662;
-}
 
 .nav-home {
   -webkit-text-fill-color: #74a662;
